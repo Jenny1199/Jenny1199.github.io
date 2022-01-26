@@ -1,0 +1,29 @@
+* {
+    background-color: #A6DDAF
+}
+.w3-container {
+    text-align: center;
+    color:#49A6AB;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #49A6AB;
+    width: 100%; 
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+.navbar a {
+    float: left;
+    padding: 12px;
+    width: 23%;
+    color: #f2f2f2;
+    background-color: #49A6AB;
+    background: #49A6AB;
+    text-align: center;
+}
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
